@@ -1,1 +1,1 @@
-# etch-a-sketch-toy-
+# etch-a-sketch-toy
